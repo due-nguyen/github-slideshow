@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Italy won the Uefa Euro Cup 2020
 Use the left arrow to go back!
